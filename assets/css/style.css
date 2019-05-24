@@ -1,0 +1,39 @@
+
+.col-lg-8 {
+    height: 350px;
+    align-content: center;
+}
+
+h1 {
+    color: red;
+    font-family: 'Macondo Swash Caps', cursive;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#para {
+    color: green;
+    font-family: 'Macondo Swash Caps', cursive;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+
+#spellLetters {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Macondo Swash Caps', cursive;
+}
+
+#missed-spelled {
+    text-align: center;
+    font-family: 'Macondo Swash Caps', cursive;
+    padding: 20px;
+    margin: 20px;
+}
